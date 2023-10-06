@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GD205.unity
+- path: Assets/Fly.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
